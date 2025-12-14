@@ -103,9 +103,9 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 If you enjoyed this project or found it useful, feel free to connect with me and explore more of my work.
 
-- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+- 💼 **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/varnikumarpatel)
 - 💻 **GitHub**: [View my GitHub profile](https://github.com/Varni1512)
-- 📧 **Email**: your-email@example.com
+- 📧 **Email**: varni1505@gmail.com
 
 I’m open to discussions around **frontend development, creative animations, 3D web experiences, and modern UI engineering**.
 
